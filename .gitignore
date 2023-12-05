@@ -1,0 +1,57 @@
+### C++ template
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+raytracer
+
+# CLion
+.idea/
+
+# Draw.io
+.$*.bkp
+
+# CMake
+cmake-build-debug/
+cmake-build-release/
+cmake-build-release-coverage/
+cmake-build-debug-coverage/
+
+# build folder
+build
+
+# VScode
+.vscode
+
+# test & output files
+file.ppm
+output.ppm
+scene.cfg
